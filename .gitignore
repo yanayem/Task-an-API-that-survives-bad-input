@@ -6,3 +6,5 @@ venv/
 ENV/
 .idea/
 .vscode/
+.gradle/
+build/
